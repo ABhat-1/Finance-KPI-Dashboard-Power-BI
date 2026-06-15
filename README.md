@@ -23,11 +23,11 @@ The goal of this project is to design a professional finance dashboard that help
 
 1. Built relationships between financial tables
 2. Created DAX measures such as:
-   a. Total Revenue
-   b. Total Expenses
-   c. Net Profit
-   d. Profit Margin %
-   e. Year-to-Date (YTD) / Month-to-Date (MTD) metrics
+a. Total Revenue
+b. Total Expenses
+c. Net Profit
+d. Profit Margin %
+e. Year-to-Date (YTD) / Month-to-Date (MTD) metrics
 
 📈 Visualizations
 
